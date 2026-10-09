@@ -1,0 +1,29 @@
+# Documentacion e informes excluidos
+Documento/
+*.pdf
+
+# Archivos comprimidos y respaldos
+*.zip
+
+# MATLAB & Simulink temporales y cache
+slprj/
+**/slprj/
+*.slxc
+**/*.slxc
+*.asv
+**/*.asv
+*.slx.r*
+**/*.slx.r*
+*.autosave
+**/*.autosave
+*.mex*
+**/*.mex*
+
+# Logs y volcados
+*.log
+matlab_crash_dump.*
+
+# Sistema Operativo
+Thumbs.db
+desktop.ini
+.DS_Store
